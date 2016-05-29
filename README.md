@@ -1,4 +1,5 @@
 # PowerBUS
 Eurorack power distribution busboard
 
-Hardware design licensed under cc-by-sa
+# License
+Hardware design licensed under cc-by-sa-3.0
